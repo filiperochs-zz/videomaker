@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/capitaosj/videomaker#readme",
   "dependencies": {
-    "readline-sync": "^1.4.9"
+    "readline-sync": "^1.4.10"
   }
 }
